@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/active_fire" >
+        <file>firicon.png</file>
+    </qresource>
+</RCC>
