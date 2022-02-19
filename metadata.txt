@@ -12,8 +12,8 @@ email=themapworkshop@gmail.com
 
 about=Display the latest active fire data from MODIS, from the past 24 hours.
 
-tracker=https://github.com/Themapworkshop/Active-Fire-Plugin/issues
-repository=https://github.com/Themapworkshop/Active-Fire-Plugin/issues
+tracker=https://github.com/PawelARDUINO/Active-FIre3/issues
+repository=https://github.com/PawelARDUINO/Active-FIre3
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=https://github.com/Themapworkshop/Active-Fire-Plugin
+homepage=https://github.com/PawelARDUINO/Active-FIre3
 category=Plugins
 icon=firicon.png
 # experimental flag
