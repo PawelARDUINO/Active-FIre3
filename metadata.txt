@@ -8,7 +8,7 @@ qgisMinimumVersion=3.0
 description=Active Fire Data within 24 hours (MODIS)
 version=0.3
 author=The Map Workshop
-email=themapworkshop@gmail.com
+email=pawel.jan.dzierzynski@gmail.com
 
 about=Display the latest active fire data from MODIS, from the past 24 hours.
 
