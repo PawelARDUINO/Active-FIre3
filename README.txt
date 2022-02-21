@@ -11,4 +11,4 @@ The user can choose between three kind of data:
 Then the user can exit the plugin by pressing the 'Exit' button.
 
 This plugin was developed by Pawel Dzierzynski from The Map Workshop
-Contact: themapworkshop@gmail.com  
+Contact: pawel.jan.dzierzynski@gmail.com  
