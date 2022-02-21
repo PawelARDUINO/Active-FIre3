@@ -9,7 +9,7 @@
         begin                : 2020-01-28
         git sha              : $Format:%H$
         copyright            : (C) 2020 by The Map Workshop
-        email                : themapworkshop@gmail.com
+        email                : pawel.jan.dzierzynski@gmail.com
  ***************************************************************************/
 
 /***************************************************************************
